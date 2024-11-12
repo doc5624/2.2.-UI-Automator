@@ -24,7 +24,7 @@ class ChangeTextTest {
 
     private lateinit var device: UiDevice
     private val textToSet = "Netology"
-    private val textEmpty = " "
+    private val textEmpty = "  "
 
 //    @Test
 //    fun testInternetSettings() {
